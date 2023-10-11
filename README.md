@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eriqui
 - 👀 I’m interested in Aprender
 - 🌱 I’m currently learning Pensamento Computacional
-- 💞️ I’m looking to collaborate on Na Aula
+- 💞️ I’m looking to collaborate  Na Aula
 - 📫 How to reach me Com as pernas
 
 <!---
