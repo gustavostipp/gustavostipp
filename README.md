@@ -2,7 +2,7 @@
 - 👀 I’m interested in Aprender
 - 🌱 I’m currently learning Pensamento Computacional
 - 💞️ I’m looking to collaborate  Na Aula
-- 📫 How to reach me Com as pernas
+- 📫 How to reach me Com o celular
 
 <!---
 gustavostipp/gustavostipp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
